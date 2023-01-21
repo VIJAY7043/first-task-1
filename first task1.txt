@@ -1,0 +1,23 @@
+1.DIFFERENCE BETWEEN HTTP1.1 AND HTTP 2:
+    
+          * HTTP1.1 was first version of HTTP.
+          * HTTP  is still use in web .
+          * HTTP1.1 rendering speed is slower than other version's of HTTP.
+          * HTTP2 is next version of HTTP1.1
+          * HTTP2 is faster than older version .
+          * HTTP2 solve several problems that the creators of HTTP1.1 did not antcipate.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+2. write a blog about objects and its internal representation in javascript?
+
+       Objects in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. 
+ These objects are quite different from JavaScript’s primitive data-types
+ (Number, String, Boolean, null, undefined and symbol)
+
+For Eg. If your object is a student, it will have properties like name, age, address, id, etc and methods like updateAddress, updateNam, etc.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
